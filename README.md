@@ -86,31 +86,7 @@ npm install
 ```bash
 npm start
 ```
-
-or
-
-```bash
-npm run dev
-```
-
 ---
-
-## 📸 Screenshots
-
-### Home Page
-Add screenshot here
-
-### Product Page
-Add screenshot here
-
-### Shopping Cart
-Add screenshot here
-
-### Login Page
-Add screenshot here
-
----
-
 ## 🎯 Project Objectives
 
 - Build a scalable e-commerce platform.
